@@ -1,0 +1,14 @@
+{
+  "name": "<auto-filled>",
+  "version": "0.0.0",
+  "description": "",
+  "license": "ISC",
+  "type": "module",
+  "homepage": "{{ homepage }}",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve Muvuvbd79YCP9tcdtnsW --open"
+  },
+  "dependencies": {
+    "lit-element": "^3.0.0"
+  }
+}
